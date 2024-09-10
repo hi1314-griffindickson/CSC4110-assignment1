@@ -1,3 +1,3 @@
-# A first-level heading CSC4110-assignment1
-## A second-level heading Griffin Dickson
-### A third-level heading hi1314
+# CSC4110-assignment1
+## Griffin Dickson
+### hi1314
